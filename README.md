@@ -50,6 +50,10 @@ Fgsl Model is an extension for [Laminas Db](https://github.com/laminas/laminas-d
 
 Fgsl MVC is an extension for [Laminas MVC](https://github.com/laminas/laminas-mvc). It helps to construct quickly CRUD.
 
+[Fgsl Response](https://github.com/fgsl/response)
+
+Fgsl Response is an extension for [Laminas Diactoros](https://github.com/laminas/laminas-mvc). It deals with CORS.
+
 [Fgsl Service Manager](https://github.com/fgsl/service-manager)
 
 Fgsl Service Manager is an extension for [Laminas Service Manager](https://github.com/laminas/laminas-service-manager). It provides a class for global access to a injection dependency container.
