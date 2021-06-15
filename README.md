@@ -22,6 +22,10 @@ Fgsl Filter is an extension for [Laminas Filter](https://github.com/laminas/lami
 
 Fgsl Form is an extension for [Laminas Form](https://github.com/laminas/laminas-form). It helps to define smart forms, integrated with models.
 
+[Fgsl Handler](https://github.com/fgsl/handler)
+
+Fgsl Handler is a collection of handlers for Mezzio applications. These handlers implement authentication and access control.
+
 [Fgsl HTTP](https://github.com/fgsl/http)
 
 Fgsl Http is an component for sending HTTP requests in several approaches.
